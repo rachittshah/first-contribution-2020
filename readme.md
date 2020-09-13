@@ -1,6 +1,6 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/godslayer201/Hacktober-2020)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Pull Request Merged](https://img.shields.io/github/issues-pr-closed/godslayer201/Hacktober2020)](https://github.com/godslayer201/Hacktober-2020)
+[![Pull Request Merged](https://img.shields.io/github/issues-pr-closed/godslayer201/Hacktober-2020)](https://github.com/godslayer201/Hacktober-2020)
 
 # First Contribution
 
