@@ -67,35 +67,33 @@ git checkout -b add-muhammad
 
 ## Make necessary changes and commit those changes
 
-Now open `contributions.yml` file from `_data` directory in a text editor, add your name with emoji of your country flag, github_account and profile picture URL (avatar) to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="assets/git-status.png" alt="git status" />
 
+
 If you go to the project directory and execute the command `git status`, you'll see there are changes.
+
 
 Add those changes to the branch you just created using the `git add` command:
 
 ```
-git add _data/contributions.yml
+git add Contributors.md
 ```
 
 Now commit those changes using the `git commit` command:
-
 ```
 git commit -m "Add <your-name> to Contributors list"
 ```
-
-replace `<your-name>` with your name.
+replacing `<your-name>` with your name.
 
 ## Push changes to GitHub
 
 Push your changes using the command `git push`:
-
 ```
 git push origin <add-your-branch-name>
 ```
-
-replace `<add-your-branch-name>` with the name of the branch you created earlier.
+replacing `<add-your-branch-name>` with the name of the branch you created earlier.
 
 ## Submit your changes for review
 
