@@ -1,5 +1,6 @@
 - Rachitt Shah
 - Kushal Khare
 - Utkarsh Gupta
+- Srinidhi Bhat
 - Soumyabrata
 - Himanshu Raj
