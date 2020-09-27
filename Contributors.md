@@ -2,5 +2,6 @@
 - Kushal Khare
 - Utkarsh Gupta
 - Srinidhi Bhat
-- Soumyabrata
+- Soumyabrata 
+- Sumit Narwani
 - Himanshu Raj
