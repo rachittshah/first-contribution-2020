@@ -4,4 +4,5 @@
 - Srinidhi Bhat
 - Soumyabrata 
 - Sumit Narwani
+- Akash Agarwal
 - Himanshu Raj
