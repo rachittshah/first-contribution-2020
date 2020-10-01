@@ -9,3 +9,4 @@
 - Kritik Modi | https://github.com/kritikmodi
 - Aditya Tandon
 - Slartibartfass | https://github.com/slartibartfass
+- Jill Oestreicher | https://github.com/jilloestreicher
