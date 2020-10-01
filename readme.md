@@ -107,6 +107,16 @@ Now submit the pull request.
 
 Soon, I'll be merging all your pull requests into the master branch of this project. You will get a notification email once the changes have been merged.
 
-## Contributors
 
+Summary step wise
+1.fork this repo
+2.open repo in ur github
+3.clone it and open it in ur editor
+4.make changes to make it easier for others to understand
+5.git add and commit the repo
+6.go to your github and select pull request.
+7.check the status of your pull request on hackoctober account
+8.Repeat these steps on others repo to make 4 pull requests.
+
+## Contributors
 Thank you to all the contributors who help in making this project better !
