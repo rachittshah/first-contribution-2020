@@ -6,3 +6,4 @@
 - Sumit Narwani
 - Himanshu Raj
 - Hari Sapna Nair
+- Kritik Modi
