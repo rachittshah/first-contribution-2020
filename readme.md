@@ -9,6 +9,7 @@
 - Looking for a simple repository to help you to get started?
 
 Then look no further, we have created this repository to help you to get started.
+So let's start with instruction
 
 ## Just for the instruction!
 
