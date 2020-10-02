@@ -1,4 +1,5 @@
 - Rachitt Shah | https://github.com/godslayer201
+- Aditya Tiwari | https://github.com/Adityatiwar1
 - Kushal Khare | https://github.com/kushal-khare-official
 - Utkarsh Gupta | https://github.com/luciusUTKARSH
 - Srinidhi Bhat | https://github.com/srinidhibhat45
