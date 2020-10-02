@@ -11,5 +11,4 @@
 - Aditya Tandon
 - Slartibartfass | https://github.com/slartibartfass
 - Jill Oestreicher | https://github.com/jilloestreicher
-- Jotdeep Singh | https://github.com/jotdeep
-- Rajath Prabhu | https://github.com/codemonger221
+- Vineet Nayak S | https://github.com/vineetnayak777
