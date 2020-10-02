@@ -7,7 +7,7 @@
 - Himanshu Raj | https://github.com/himanshuraj18
 - Hari Sapna Nair| https://github.com/Sapna2001
 - Kritik Modi | https://github.com/kritikmodi
-- Prajaktha P Prabhu |https://github.com/prajakthaprabhu
+- Reo Correia | https://github.com/ReoCorreia
 - Aditya Tandon
 - Slartibartfass | https://github.com/slartibartfass
 - Jill Oestreicher | https://github.com/jilloestreicher
