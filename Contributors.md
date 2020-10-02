@@ -9,6 +9,7 @@
 - Hari Sapna Nair| https://github.com/Sapna2001
 - Kritik Modi | https://github.com/kritikmodi
 - Reo Correia | https://github.com/ReoCorreia
+- Barbarosa
 - Aditya Tandon
 - Slartibartfass | https://github.com/slartibartfass
 - Jill Oestreicher | https://github.com/jilloestreicher
