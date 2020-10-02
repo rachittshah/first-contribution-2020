@@ -3,6 +3,7 @@
 - Utkarsh Gupta | https://github.com/luciusUTKARSH
 - Srinidhi Bhat | https://github.com/srinidhibhat45
 - Soumyabrata | https://github.com/sb2356-iiitr
+- Sukanya Shet | https://github.com/sukanya-shet
 - Sumit Narwani | https://github.com/Sumit-Narwani
 - Himanshu Raj | https://github.com/himanshuraj18
 - Hari Sapna Nair| https://github.com/Sapna2001
