@@ -1,4 +1,3 @@
-
 # Contributors List
 
 - Rachitt Shah | [Rachitt Shah Github Account](https://github.com/godslayer201)
@@ -12,6 +11,7 @@
 - Hari Sapna Nair | [Hari Sapna Nair Github Account](https://github.com/Sapna2001)
 - Kritik Modi | [Kritik Modi Github Account](https://github.com/kritikmodi)
 - Reo Correia | [Reo Correia Github Account](https://github.com/ReoCorreia)
+- Barbarosa
 - Aditya Tandon
 - Slartibartfass | [Slartibartfass Github Account](https://github.com/slartibartfass)
 - Jill Oestreicher | [Jill Oestreicher Github Account](https://github.com/jilloestreicher)
