@@ -20,3 +20,4 @@
 - Suraj Nayak | [Suraj Nayak Github Account](https://github.com/suraj789098)
 - Muhammad Aliyul Murtadlo | [Muhammad Aliyul Murtadlo Github Account](https://github.com/mmdiyul)
 - Thejasree Kilari | [Thejasree Kilari Github Account](https://github.com/ThejasreeKilari)
+- Hrishit Biswas | [Hrishit Biswas Github Account](https://github.com/Artistic18)
