@@ -1,5 +1,5 @@
 
-# Contributor Lists
+# Contributors List
 
 - Rachitt Shah | [Rachitt Shah Github Account](https://github.com/godslayer201)
 - Kushal Khare | [Kushal Khare Github Account](https://github.com/kushal-khare-official)
