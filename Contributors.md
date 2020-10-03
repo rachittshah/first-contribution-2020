@@ -1,20 +1,21 @@
-- Rachitt Shah | https://github.com/godslayer201
-- Aditya Tiwari | https://github.com/Adityatiwar1
-- Kushal Khare | https://github.com/kushal-khare-official
-- Utkarsh Gupta | https://github.com/luciusUTKARSH
-- Srinidhi Bhat | https://github.com/srinidhibhat45
-- Soumyabrata | https://github.com/sb2356-iiitr
-- Sukanya Shet | https://github.com/sukanya-shet
-- Sumit Narwani | https://github.com/Sumit-Narwani
-- Himanshu Raj | https://github.com/himanshuraj18
-- Hari Sapna Nair| https://github.com/Sapna2001
-- Kritik Modi | https://github.com/kritikmodi
-- Reo Correia | https://github.com/ReoCorreia
+# Contributors List
+
+- Rachitt Shah | [Rachitt Shah Github Account](https://github.com/godslayer201)
+- Kushal Khare | [Kushal Khare Github Account](https://github.com/kushal-khare-official)
+- Utkarsh Gupta | [Utkarsh Gupta Github Account](https://github.com/luciusUTKARSH)
+- Srinidhi Bhat | [Srinidhi Bhat Github Account](https://github.com/srinidhibhat45)
+- Soumyabrata | [Soumyabrata Github Account](https://github.com/sb2356-iiitr)
+- Sukanya Shet | [Sukanya Shet Github Account](https://github.com/sukanya-shet)
+- Sumit Narwani | [Sumit Narwani Github Account](https://github.com/Sumit-Narwani)
+- Himanshu Raj | [Himanshu Raj Github Account](https://github.com/himanshuraj18)
+- Hari Sapna Nair | [Hari Sapna Nair Github Account](https://github.com/Sapna2001)
+- Kritik Modi | [Kritik Modi Github Account](https://github.com/kritikmodi)
+- Reo Correia | [Reo Correia Github Account](https://github.com/ReoCorreia)
 - Barbarosa
 - Aditya Tandon
-- Slartibartfass | https://github.com/slartibartfass
-- Jill Oestreicher | https://github.com/jilloestreicher
-- Vineet Nayak S | https://github.com/vineetnayak777
-- Ryan Varghese | https://github.com/ryanvarghese
-- Suraj Nayak    | 
-https://github.com/suraj789098
+- Slartibartfass | [Slartibartfass Github Account](https://github.com/slartibartfass)
+- Jill Oestreicher | [Jill Oestreicher Github Account](https://github.com/jilloestreicher)
+- Vineet Nayak S | [Vineet Nayak S Github Account](https://github.com/vineetnayak777)
+- Ryan Varghese | [Ryan Varghese Github Account](https://github.com/ryanvarghese)
+- Suraj Nayak | [Suraj Nayak Github Account](https://github.com/suraj789098)
+- Muhammad Aliyul Murtadlo | [Muhammad Aliyul Murtadlo Github Account](https://github.com/mmdiyul)
