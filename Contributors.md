@@ -13,6 +13,7 @@
 - Reo Correia | [Reo Correia Github Account](https://github.com/ReoCorreia)
 - Barbarosa
 - Aditya Tandon
+- Anurag Jain
 - Slartibartfass | [Slartibartfass Github Account](https://github.com/slartibartfass)
 - Saral Karki | [Saral33 Github Account](https://github.com/saral33)
 - Jill Oestreicher | [Jill Oestreicher Github Account](https://github.com/jilloestreicher)
