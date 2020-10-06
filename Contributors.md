@@ -26,3 +26,4 @@
 - Aditya Gite | [Aditya Gite Github Account](https://github.com/aditya-gite-04)
 - Vishal Sharma | [Vishal's Github Account](https://github.com/Str4nge)
 - Finlay George | [Finlay's Github Account](https://github.com/Finbob12)
+-Ethan | [Ethan's Github Account](https://github.com/mrtentacless)
