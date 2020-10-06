@@ -17,6 +17,7 @@
 - Slartibartfass | [Slartibartfass Github Account](https://github.com/slartibartfass)
 - Saral Karki | [Saral33 Github Account](https://github.com/saral33)
 - Jill Oestreicher | [Jill Oestreicher Github Account](https://github.com/jilloestreicher)
+- Priyajeet Goswami | [Priyajeet Goswami Github Account](https://github.com/PriyajeetGoswami)
 - Vineet Nayak S | [Vineet Nayak S Github Account](https://github.com/vineetnayak777)
 - Ryan Varghese | [Ryan Varghese Github Account](https://github.com/ryanvarghese)
 - Suraj Nayak | [Suraj Nayak Github Account](https://github.com/suraj789098)
