@@ -24,3 +24,4 @@
 - Hrishit Biswas | [Hrishit Biswas Github Account](https://github.com/Artistic18)
 - Kunal Prakash | [Kunal Prakash Github Account](https://github.com/kunalprakash1309)
 - Aditya Gite | [Aditya Gite Github Account](https://github.com/aditya-gite-04)
+- Vishal Sharma | [Vishal's Github Account](https://github.com/Str4nge)
