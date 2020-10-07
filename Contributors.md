@@ -10,6 +10,7 @@
 - Himanshu Raj | [Himanshu Raj Github Account](https://github.com/himanshuraj18)
 - Hari Sapna Nair | [Hari Sapna Nair Github Account](https://github.com/Sapna2001)
 - Kritik Modi | [Kritik Modi Github Account](https://github.com/kritikmodi)
+- Tanishq Sehra | [Tanishq Sehra Github Account](https://github.com/tanishq1502)
 - Reo Correia | [Reo Correia Github Account](https://github.com/ReoCorreia)
 - Sneha Mehta | [Sneha Mehta Github Account](https://github.com/sneha-mehta)
 - Barbarosa
