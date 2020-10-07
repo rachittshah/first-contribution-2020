@@ -1,6 +1,11 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/godslayer201/Hacktober-2020)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+## Note :
+
+<b> This repo is made to help new comers with Git and Github.
+   This repo isn't eligible for free T-shirts,and is no way encouraging such behaviour.</b>
+
 
 # First Contribution
 
