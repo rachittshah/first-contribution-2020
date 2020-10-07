@@ -10,11 +10,13 @@
 - Himanshu Raj | [Himanshu Raj Github Account](https://github.com/himanshuraj18)
 - Hari Sapna Nair | [Hari Sapna Nair Github Account](https://github.com/Sapna2001)
 - Kritik Modi | [Kritik Modi Github Account](https://github.com/kritikmodi)
-- Reo Correia | [Reo Correia Github Account](https://github.com/ReoCorreia)
 - Tanishq Sehra | [Tanishq Sehra Github Account](https://github.com/tanishq1502)
+- Reo Correia | [Reo Correia Github Account](https://github.com/ReoCorreia)
+- Sneha Mehta | [Sneha Mehta Github Account](https://github.com/sneha-mehta)
 - Barbarosa
 - Aditya Tandon
 - Anurag Jain
+- Bronwyn Carr
 - Slartibartfass | [Slartibartfass Github Account](https://github.com/slartibartfass)
 - Saral Karki | [Saral33 Github Account](https://github.com/saral33)
 - Jill Oestreicher | [Jill Oestreicher Github Account](https://github.com/jilloestreicher)
