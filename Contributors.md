@@ -11,6 +11,7 @@
 - Hari Sapna Nair | [Hari Sapna Nair Github Account](https://github.com/Sapna2001)
 - Kritik Modi | [Kritik Modi Github Account](https://github.com/kritikmodi)
 - Reo Correia | [Reo Correia Github Account](https://github.com/ReoCorreia)
+- Sneha Mehta | [Sneha Mehta Github Account](https://github.com/sneha-mehta)
 - Barbarosa
 - Aditya Tandon
 - Anurag Jain
