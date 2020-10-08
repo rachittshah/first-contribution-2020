@@ -2,6 +2,7 @@
 
 - Rachitt Shah | [Rachitt Shah Github Account](https://github.com/godslayer201)
 - Kushal Khare | [Kushal Khare Github Account](https://github.com/kushal-khare-official)
+- Kushaan Gowda | [Kushaan Gowda Github Account](https://github.com/kushaangowda)
 - Utkarsh Gupta | [Utkarsh Gupta Github Account](https://github.com/luciusUTKARSH)
 - Srinidhi Bhat | [Srinidhi Bhat Github Account](https://github.com/srinidhibhat45)
 - Soumyabrata | [Soumyabrata Github Account](https://github.com/sb2356-iiitr)
