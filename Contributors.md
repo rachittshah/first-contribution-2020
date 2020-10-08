@@ -34,3 +34,4 @@
 - Finlay George | [Finlay's Github Account](https://github.com/Finbob12)
 - Ethan | [Ethan's Github Account](https://github.com/mrtentacless)
 - Daniel Sedrick | [Daniels's Github Account](https://github.com/mountwo23)
+- Devansh Singh | [Devansh's Github Account](https://github.com/Devansh3712)
