@@ -3,8 +3,8 @@
 
 ## Note :
 
-<b> This repo is made to help new comers with Git and Github.
-   This repo isn't eligible for free T-shirts,and is no way encouraging such behaviour.</b>
+<b> <H2>This repo is made to help new comers with Git and Github.
+   This repo isn't eligible for free T-shirts,and is no way encouraging such behaviour.</h></b>
 
 
 # First Contribution
