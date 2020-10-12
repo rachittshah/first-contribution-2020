@@ -36,3 +36,4 @@
 - Ethan | [Ethan's Github Account](https://github.com/mrtentacless)
 - Daniel Sedrick | [Daniels's Github Account](https://github.com/mountwo23)
 - Devansh Singh | [Devansh's Github Account](https://github.com/Devansh3712)
+- Kamalakara Sri Krishna Tadepalli  | [Krishna's Github Account](https://github.com/kkrishTa)
